@@ -1,0 +1,1 @@
+video surveillance=видеонаблюдение=noun=surveillance system capable of capturing images and videos that can be compressed, stored or sent over communication networks;
