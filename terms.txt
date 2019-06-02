@@ -1,1 +1,10 @@
 video surveillance=видеонаблюдение=noun=surveillance system capable of capturing images and videos that can be compressed, stored or sent over communication networks;
+product security=безопасность продукта=noun=;
+body camera=портативный видеорегистратор=noun=;
+access controller=контроллер доступа=noun=;
+control point=точка управления=noun=;
+card reader=устройство для считывания карт=noun=;
+access control=управление доступом=noun=;
+management interface=интерфейс управления=noun=;
+security testing=тестирование защищённости=noun=;
+dropdown list=выпадающий список=noun=;
