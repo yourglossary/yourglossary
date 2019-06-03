@@ -8,3 +8,346 @@ access control=управление доступом=noun=;
 management interface=интерфейс управления=noun=;
 security testing=тестирование защищённости=noun=;
 dropdown list=выпадающий список=noun=;
+door status=состояние двери=noun=;
+normal card=обычная карта=noun=;
+alarm output=тревожный выход=noun=;
+access control point=точка контроллер доступа=noun=;
+information security=защищенность информации=noun=;
+end time=время окончания=noun=;
+holiday group=группа выходных дней=noun=;
+log type=тип журнала=noun=;
+device list=список устройств=noun=;
+operation time=время выполнения операции=noun=;
+security management=управление безопасностью=noun=;
+search condition=условие поиска=noun=;
+shift group=группа смен=noun=;
+user manual=руководство пользователя=noun=;
+card holder=держатель карты=noun=;
+access event=событие доступа=noun=;
+recognition module=модуль распознавания=noun=;
+schedule template=шаблон доступа=noun=;
+operation type=тип операции=noun=;
+configuration interface=интерфейс конфигурации=noun=;
+control panel=панель управления=noun=;
+blank card=неперсонализированная карта=noun=;
+audible warning=звуковое предупреждение=noun=;
+card list=список карт=noun=;
+live view=просмотр в реальном времени=noun=;
+fingerprint recognition module=модуль распознавания отпечатков пальцев=noun=;
+local memory=локальная память=noun=;
+serial port=серийный порт=noun=;
+password authentication=аутентификация по паролю=noun=;
+card type=тип карты=noun=;
+absence threshold=порог отсутствия=noun=;
+break time=перерыв=noun=;
+security incident=нарушение системы защиты=noun=; 
+penetration testing=тестирование на возможность проникновения=noun=; 
+start time=время начала=noun=;
+fingerprint recognition=распознавание отпечатков пальцев=noun=;security 
+security baseline=базовый уровень защиты=noun=;
+event linkage=привязка события=noun=;
+card swiping log=журнал считывания карт=noun=;
+swiping log=журнал считывания=noun=;
+protocol security=защита протокола=noun=;
+security incident management=управление нарушениями системы защиты=noun=;
+card management=управление картами=noun=;
+group list=список групп=noun=;
+editing interface=интерфейс редактирования=noun=;
+harmful interference=вредные помехи=noun=;
+access control system=система контроля доступа=noun=;
+client software=клиентское программное обеспечение=noun=;
+configuration management=управление конфигурацией=noun=;
+baud rate=скорость передачи данных=noun=;
+third-party software=программное обеспечение стороннего производителя=noun=;
+event information=информация события=noun=;
+end date=дата окончания=noun=;
+system security=защита системы=noun=;
+port number=номер порта=noun=;
+card swiping action=действие считывания карты=noun=;
+swiping action=действие считывания=noun=;
+attendance check=проверка посещаемости=noun=;
+one-card configuration=конфигурация одной карты=noun=;
+live view image=изображение просмотра в реальном времени=noun=;
+card management interface=интерфейс управления картами=noun=;
+door list=список дверей=noun=;
+normal card list=список обычных карт=noun=;
+software loading=загрузка программного обеспечения=noun=;
+fingerprint machine=устройство для считывания отпечатков пальцев=noun=;
+person management=управление пользователями=noun=;
+quick charging mode=режим быстрой подзарядки=noun=;
+arming region=охраняемый регион=noun=;
+attendance rule=правило посещения=noun=;
+product security testing=тестирование защищенности устройства=noun=;
+audible warning of card reader=звуковое оповещение устройства для считывания карт=noun=;
+person adding window=окно добавления пользователей=noun=;
+online device=онлайн устройство=noun=;
+serial port number=номер серийного порта=noun=;
+alarm input=тревожный вход=noun=;
+charging mode=режим подзарядки=noun=;
+relay output=выход реле=noun=;
+shift type=тип смены=noun=;
+first card=первая карта=noun=;
+vulnerability research=исследование степени защищенности=noun=;
+shift schedule=расписание смены=noun=;
+port type=тип порта=noun=;
+security requirement=требования по обеспечению защиты=;
+synchronization time=время синхронизации=noun=;
+vulnerability information=информация о степени защищенности=noun=;
+swipe card=считать карту=verb=;
+security protection=обеспечение безопасности=noun=;
+event type=тип события=noun=;
+last card=последняя карта=noun=;
+device type=тип устройства=noun=;
+main channel=основной канал=noun=;
+pop up window=всплывающее окно=noun=;
+internal control=внутреннее управление=noun=;
+start date=дата начала=noun=;
+security system=система безопасности=noun=;
+back cover=задняя крышка=noun=;
+drop-down list=выпадающий список=noun=;
+international security=международная безопасность=noun=;
+single-door access=доступ к одной двери=noun=;
+alarm action=тревожной действие=noun=;
+linkage alarm action=привязка тревожного действия=noun=;
+linkage alarm=привязка тревоги=noun=;
+attendance analysis=анализ посещаемости=noun=;
+statistic analysis=статистический анализ=noun=;
+product security baseline=базовый уровень защиты продукта=noun=;
+jumper cap=переключатель=noun=;
+duress card=карта доступа по принуждению=noun=;
+network center=центр управления сетью=noun=;
+shoulder clip=зажим=noun=;
+single-door access controller=контроллер доступа для одной двери=noun=;
+online device detection=обнаружение онлайн устройств=noun=;
+inactive device=неактивное устройство=noun=;
+alarm event=тревожное событие=noun=;
+real-time access event=событие доступа в реальном времени=noun=;
+honeypot=система-ловушка для хакеров=noun=;
+product security incident=нарушение системы защиты продукта=noun=;
+access controller editing interface=интерфейс редактирования контроллера доступа=noun=;
+controller editing interface=интерфейс редактирования контроллера=noun=;
+interact interface=интерактивный интерфейс=noun=;
+person management interface=интерфейс управления пользователями=noun=;
+statistic analysis interface=интерфейс статистического анализа=noun=;
+control log=журнал управления=noun=;
+holiday management=управление выходными днями=noun=;
+shift group management=управление группами смен=noun=;
+remaining memory=объем свободной памяти=noun=;
+adding mode=режим добавления=noun=;
+connection mode=режим подключения=noun=;
+live view mode=режим просмотра в реальном времени=noun=;
+alarm relay output=выход тревожного реле=noun=;
+super password=универсальный пароль=noun=;
+laser positioning=позиционирование лазерного луча=noun=;
+product security requirement=требования по обеспечению защиты=noun=;
+alarm output status=состояние тревожного выхода=noun=;
+output status=состояние выхода=noun=;
+cybersecurity system=система кибербезопасности=noun=;
+shift setting window=окно настройки смены=noun=;
+real-time capture=захват в реальном времени=noun=;
+super card=мастер карта=noun=;
+security design=проект охранных систем=noun=;
+expansion information=расширенная информация=noun=;
+card interface=интерфейс карты=noun=;
+alarm relay=тревожное реле=noun=;
+service security=защита службы=noun=;
+remote configuration=удаленная конфигурация=noun=;
+flash disk=флеш-диск=noun=;
+person list=список пользователей=noun=;
+shift management=управление сменами=noun=;
+authentication mode=режим аутентификации=noun=;
+event search=поиск событий=noun=;
+host list=список хостов=noun=;
+person name=имя пользователя=noun=;
+vulnerability database=база данных уязвимостей=noun=;
+person information=информация пользователя=noun=;
+device status=состояние устройства=noun=;
+security management system=система управления безопасностью=noun=;
+threat analysis=анализ угроз=noun=;
+event list=список событий=noun=;
+attendance management=управление посещаемостью=noun=;
+configuration item=элемент конфигурации=noun=;
+view mode=режим просмотра=noun=;
+picture size=размер изображения=noun=;
+security committee=комитет по вопросам безопасности=noun=;
+device detection=обнаружение устройств=noun=;
+storage server=сервер хранения=noun=;
+information leakage=утечка информации=noun=;
+key security=защита ключей=noun=;
+group management=управление группами=noun=;
+centralized management=централизованное управление=noun=;
+strong password=надежный пароль=noun=;
+architecture design=проектирование архитектуры=noun=;
+time duration=продолжительность времени=noun=;
+security training=подготовка по вопросам безопасности=noun=;
+low battery=низкий уровень заряда аккумулятора=noun=;
+real-time access=доступ в реальном времени=noun=;
+card number=номер карты=noun=;
+network security=защита сетей=noun=;
+network interface=сетевой интерфейс=noun=;
+application layer=прикладной уровень=noun=;
+cloud service=поблачная служба=noun=;
+security team=служба безопасности=noun=;
+private information=персональные данные=noun=;
+high security=высокая степень безопасности=noun=;
+open source software=программное обеспечение открытого доступа=noun=;
+control system=система управления=noun=;
+text field=текстовое поле=noun=;
+picture quality=качество изображения=noun=;
+card information=информация карты=noun=;
+internet of things=интернет вещей=noun=;
+internet of things-related security=интернет вещей обеспечения безопасности=noun=;
+relay action=действие реле=noun=;
+auto time adjustment
+shift adjustment
+arming region alarm
+blacklist alarm
+code alarm
+event input alarm
+force opening door alarm
+input alarm
+insufficient storage space storage alarm
+opening door alarm
+region alarm
+space storage alarm
+storage alarm
+storage space storage alarm
+tamper-proof alarm
+triggering alarm
+attendance rate analysis
+attendance result analysis
+product security requirement analysis
+reverse analysis
+security requirement analysis
+adjustable angle
+transparent angle
+vertical adjustable angle
+product security architecture
+person list area
+off-work attendance
+on-work attendance
+card reader authentication
+predefined auto-lock
+anti-passing back
+password setting dialogue box
+pop up dialog box
+controller buzzer
+host buzzer
+remaining memory capacity
+third-party card
+unrecognized card
+visitor card
+digital signature center
+virus scanning center
+duress code
+inter-network communication
+unencrypted communication
+open source component
+fingerprint machine configuration
+permission configuration
+schedule template configuration
+two-door access controller
+product security life cycle жизненный цикл безопасности продукта
+security life cycle жизненный цикл безопасности
+industrial vulnerability database
+key database
+device date
+check delay
+cybersecurity design
+logical architecture design
+network security design
+product security architecture design
+access control device
+password setting dialogue
+device vulnerability discovery
+card dispatcher
+external fingerprint card dispatcher
+fingerprint card dispatcher
+formatting memory error
+group error
+memory error
+card reader event
+door event
+duress event
+triggering alarm event
+permission failure
+anti-passback function
+anti-tampering function
+card open function
+circuit protection function
+cut-proof function
+face detection function
+first card open function
+interlock function
+multi-card function
+online upgrade function
+record storage function
+redundancy function
+short circuit protection function
+space storage alarm function
+storage alarm function
+super password function
+tamper-proof function
+upgrade function
+door group
+duration group
+selected center group
+detailed configuration guide
+access host
+access event information
+battery information
+card reader information
+real-time access event information
+arming region alarm input
+event input
+region alarm input
+access controller interface
+activation interface
+card adding interface
+control point importing interface
+controller management interface
+department interface
+door management interface
+group interface
+group management interface
+holiday group interface
+holiday management interface
+live view interface
+person interface
+personal information interface
+plan interface
+schedule interface
+schedule management interface
+schedule template configuration interface
+schedule template interface
+private information leakage
+alarm linkage
+alarm relay output linkage
+card linkage
+corresponding linkage
+output linkage
+relay output linkage
+configuration log
+failure log
+interface log
+system configuration interface log
+access controller management
+check point management
+component management
+door management
+door status management
+formatting memory
+uploading mode
+big data analysis model
+data analysis model
+door relay output
+open door relay output
+automatic protocol
+simulating protocol
+third-party card reader
+communication security
+company product security
+mobile terminal security
+network information security
+network protocol security
+open key security
