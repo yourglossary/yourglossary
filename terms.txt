@@ -11,7 +11,7 @@ dropdown list=выпадающий список=noun=;
 door status=состояние двери=noun=;
 normal card=обычная карта=noun=;
 alarm output=тревожный выход=noun=;
-access control point=точка контроллер доступа=noun=;
+access control point=точка управления доступом=noun=;
 information security=защищенность информации=noun=;
 end time=время окончания=noun=;
 holiday group=группа выходных дней=noun=;
