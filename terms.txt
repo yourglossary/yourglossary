@@ -198,3 +198,4 @@ card information=информация карты=noun=;
 internet of things=интернет вещей=noun=;
 internet of things-related security=интернет вещей обеспечения безопасности=noun=;
 relay action=действие реле=noun=;
+event control=управление событиями=noun=;
